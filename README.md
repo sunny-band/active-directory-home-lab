@@ -15,7 +15,7 @@ Credits to **Josh Madakor** for making a tutorial video on how to set up Active 
 ![3](https://github.com/sunny-band/active-directory-home-lab/assets/144818374/ef60eaec-daf7-4487-8f9c-9b7fdab3c1e2)
 
 
-## 4. Using another instance of VirtualBox, connect to a client computer. Let the user log in with the temporary password. Make sure this message pops up.
+## 4. Using another instance of VirtualBox, connect to a client computer (Windows 10 Pro). Let the user log in with the temporary password. Make sure this message pops up.
 ![4](https://github.com/sunny-band/active-directory-home-lab/assets/144818374/1651a4a1-b539-49a0-90e6-f29afa8acb55)
 
 
