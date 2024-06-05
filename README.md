@@ -4,7 +4,7 @@ Credits to **Josh Madakor** for making a tutorial video on how to set up Active 
 
 
 
-## 1. Currently using Windows Server 2019 running inside VirtualBox. At startup, the Server Manager appears. We can select Active Directory Users and Computers from the Tools dropdown box.
+## 1. Currently using Windows Server 2019 running inside VirtualBox. At startup, the Server Manager appears. Select "Active Directory Users and Computers" from the "Tools" dropdown box.
 ![1](https://github.com/sunny-band/active-directory-home-lab/assets/144818374/96c11fde-85b4-4c0b-aa42-32b007bc77ef)
 
 ## 2. There are hundreds of users in a domain. We can conduct a password reset if a user has forgotten their password. Right-click on a user's name and select "Reset Password..."
