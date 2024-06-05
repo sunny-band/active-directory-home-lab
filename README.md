@@ -1,6 +1,6 @@
 # active-directory-home-lab
 This is a personal project aimed at gaining knowledge of Active Directory and emulating real-world tasks through an IT Help Desk/Service Desk position. 
-Credits to **Josh Madakor** for making a tutorial video on how to set up Active Directory using virtual machines. https://youtu.be/MHsI8hJmggI?si=_xakUNLCsHSqyDe0
+Credits to ***Josh Madakor*** for making a tutorial video on how to set up Active Directory using virtual machines. https://youtu.be/MHsI8hJmggI?si=_xakUNLCsHSqyDe0
 
 
 
