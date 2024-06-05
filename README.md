@@ -35,22 +35,22 @@ Credits to **Josh Madakor** for making a tutorial video on how to set up Active 
 ![8](https://github.com/sunny-band/active-directory-home-lab/assets/144818374/d9a991b2-5c30-40a6-821c-7230bb41c9c1)
 
 
-## 9. Message on client computer's side
+## 9. Message on client computer's side.
 ![9](https://github.com/sunny-band/active-directory-home-lab/assets/144818374/ed0b7e9a-ce07-4c76-90a4-5b3cc4f7d927)
 
 
-## 10. The Server Manager can also manage group policies -- how users will have access to certain Windows features
+## 10. The Server Manager can also manage group policies -- how users will have access to certain Windows features.
 ![10](https://github.com/sunny-band/active-directory-home-lab/assets/144818374/b983ee20-d79b-42df-87b5-c4c1c13ca9e9)
 
 
-## 11. Setting the permissions to the start menu to be full-screen
+## 11. Setting the permissions to the start menu to be full-screen.
 ![11](https://github.com/sunny-band/active-directory-home-lab/assets/144818374/3a3c61e5-3967-4e6a-87b7-15d2e96df929)
 
 
-## 12. Properties menu
+## 12. Properties menu.
 ![12](https://github.com/sunny-band/active-directory-home-lab/assets/144818374/c7728541-bd81-469a-a8fb-9be749c4867b)
 
 
-## 13. Client computer in effect
+## 13. Client computer in effect.
 ![13](https://github.com/sunny-band/active-directory-home-lab/assets/144818374/f9e45bdc-8641-4caa-bd07-aea8651549e3)
 
