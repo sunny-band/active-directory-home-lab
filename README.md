@@ -1,5 +1,7 @@
 # active-directory-home-lab
 This is a personal project aimed at gaining knowledge of Active Directory and emulating real-world tasks as an IT Help Desk/Service Desk position. Methods can include the following: adding/removing/disabling users, conducting password resets, and managing group policies. 
+
+
 Credits to **Josh Madakor** for making a tutorial video on how to set up Active Directory using virtual machines. https://youtu.be/MHsI8hJmggI?si=_xakUNLCsHSqyDe0
 
 
